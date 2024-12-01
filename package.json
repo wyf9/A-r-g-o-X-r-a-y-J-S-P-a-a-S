@@ -1,7 +1,7 @@
 {
-    "name": "express-hello-world",
+    "name": "express-h-e-l-l-o-world",
     "version": "1.0.0",
-    "description": "Express Hello World",
+    "description": "ExpressHelloWorld",
     "main": "index.js",
     "repository": "https://github.com/wyf9/A-r-g-o-X-r-a-y-J-S-P-a-a-S",
     "author": "wyf9",
@@ -12,7 +12,6 @@
     },
     "dependencies": {
         "express": "^4.18.2",
-        "http-proxy-middleware": "^3.0.0-beta.0",
         "request": "^2.88.2",
         "basic-auth": "^2.0.1"
     },
