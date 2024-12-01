@@ -31,4 +31,5 @@ exec("python3 entry.py", function (err, stdout, stderr) {
   console.log(stdout);
 });
 
+port = 3000;
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));
